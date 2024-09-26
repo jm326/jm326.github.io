@@ -11,4 +11,7 @@ Data obtained from the [Office of Institutional Data at Lehigh University](https
 The infographic displays the permanent residence of undergraduate students at Lehigh. Data are simplified into four categories to emphasize the large population of students from PA, NY, or NJ.<br/>
 Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
 ## Graded Infographic Assignment - 9/29/2024
-![digitalDecay](
+![digitalDecay](https://github.com/jm326/jm326.github.io/blob/main/internetInfographic.png?raw=true)<br/>
+Data obtained from the [Pew Research Center](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)<br/>
+The infographic emphasizes how common it is for important websites to contain non-functional links. While most of us believe information on the internet will always be accessible, this belief may not be the case.<br/>
+Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
