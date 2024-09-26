@@ -6,7 +6,7 @@ I write literary criticism, poetry, and pretty much anything else I think of and
 I study journalism because I want to expand my writing techniques. <br/>
 ![picture](https://www2.lehigh.edu/sites/www2/files/2024-08/Lehigh-University-Linderman-Library.jpg) <br/>
 ## Infographic Assignment
-![studentResidence](https://github.com/jm326/jm326.github.io/blob/main/infographic.png?raw=true)<br/>
+![studentResidence](https://github.com/jm326/jm326.github.io/blob/main/infographic.png?raw=true = 100x200)<br/>
 Data obtained from the [Office of Institutional Data at Lehigh University](https://data.lehigh.edu/university-profile)<br/>
 The infographic displays the permanent residence of undergraduate students at Lehigh. Data are simplified into four categories to emphasize the large population of students from PA, NY, or NJ.<br/>
 Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
