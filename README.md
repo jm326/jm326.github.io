@@ -6,3 +6,4 @@ I write literary criticism, poetry, and pretty much anything else I think of and
 I study journalism because I want to expand my writing techniques. <br/>
 ![picture](https://www2.lehigh.edu/sites/www2/files/2024-08/Lehigh-University-Linderman-Library.jpg) <br/>
 ## Infographic Assignment
+![studentResidence](https://github.com/jm326/jm326.github.io/blob/main/infographic.png?raw=true)<br/>
