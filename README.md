@@ -15,5 +15,5 @@ Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
 Data obtained from the [Pew Research Center](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)<br/>
 The infographic emphasizes how common it is for important websites to contain non-functional links. While most of us believe information on the internet will always be accessible, this belief may not be the case.<br/>
 Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
-## In-Class Timeline Assignment - 10/3/2024
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1k4nwwTosRoIfqQYG6fxjuRzFA_YoKe2E7AXKIRdyocs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe><br/>
+## In-Class Timeline Assignment - 10/3/2024 <br/>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1k4nwwTosRoIfqQYG6fxjuRzFA_YoKe2E7AXKIRdyocs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> <br/>
