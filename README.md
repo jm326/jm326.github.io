@@ -18,3 +18,4 @@ Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
 ## In-Class Timeline Assignment - 10/3/2024 <br/>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1k4nwwTosRoIfqQYG6fxjuRzFA_YoKe2E7AXKIRdyocs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> <br/>
 ## Graded Timeline Assignment - 10/3/2024 <br/>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ymjhl9iJelB8GEingYeGpe6m63FrZgznkmqFd6zY7lk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
