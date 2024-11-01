@@ -25,12 +25,12 @@ Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ymjhl9iJelB8GEingYeGpe6m63FrZgznkmqFd6zY7lk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> <br/>
 
 ## In-Class Bar Chart Assignment - 10/10/2024 <br/>
-![collegeDist] (https://github.com/jm326/jm326.github.io/blob/main/barchartCollegeDist.png?raw=true)<br/>
+![collegeDist](https://github.com/jm326/jm326.github.io/blob/main/barchartCollegeDist.png?raw=true)<br/>
 Bar chart shows distribution of Lehigh University undergraduate population across colleges.
 Chart by Jamie Marshaleck, Lehigh University '26. <br/>
 
 ## In-Class Bar Chart Assignment - 10/10/2024 <br/>
-![nyGrad] (https://github.com/jm326/jm326.github.io/blob/main/barchartNYGrads.png?raw=true) <br/>
+![nyGrad](https://github.com/jm326/jm326.github.io/blob/main/barchartNYGrads.png?raw=true) <br/>
 Bar chart shows graduation outcome of New York High School Students from cohorts of 2012-2019.
 Chart by Jamie Marshaleck, Lehigh University '26. <br/>
 
