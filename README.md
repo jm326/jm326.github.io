@@ -23,6 +23,8 @@ Infographic by Jamie Marshaleck, Lehigh University '26.<br/>
 
 ## Graded Timeline Assignment - 10/3/2024 <br/>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ymjhl9iJelB8GEingYeGpe6m63FrZgznkmqFd6zY7lk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> <br/>
+This timeline describes the life of British writer Charlotte Bronte from birth to death, with special emphasis on her published works and career achievements. <br/>
+Interactive timeline by Jamie Marshaleck, Lehigh University '26. <br/>
 
 ## In-Class Bar Chart Assignment - 10/10/2024 <br/>
 ![collegeDist](https://github.com/jm326/jm326.github.io/blob/main/barchartCollegeDist.png?raw=true)<br/>
