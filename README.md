@@ -66,8 +66,14 @@ Data obtained from Lehigh University Journalism students. [Dataset](https://docs
 Visualization shows student affiliation with Greek or athletic organizations beside perceived safety at parties. <br/>
 Infographic by Jamie Marshaleck, Lehigh University '26. <br/>
 
-## In-Class Tableau Assignment 11/7/2023 <br/>
+## In-Class Tableau Assignment 11/7/2024 <br/>
 <div class='tableauPlaceholder' id='viz1730998599193' style='position: relative'><noscript><a href='#'><img alt='My Map Story' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ta&#47;tableau117&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='tableau117&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ta&#47;tableau117&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1730998599193'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script> <br/>
 Data obtained from [data.gov](https://catalog.data.gov/dataset/201314-integrated-postsecondary-education-data-system) <br/>
 Visualization shows public and private institutions in the United States, separated by student population and degree of urbanization. <br/>
+Infographic by Jamie Marshaleck, Lehigh University '26. <br/>
+
+## Graded Tableau Assignment 11/7/2024 <br/>
+<script type='module' src='https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://public.tableau.com/views/lifeexpectancy_17310300103540/Story1' width='1016' height='991' hide-tabs toolbar='bottom' static-image='https://public.tableau.com/static/images/li/lifeexpectancy_17310300103540/Story1/1_rss.png' animate-transition display-spinner display-overlay display-count ></tableau-viz>
+Data obtained from [data.gov](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states) and [data.gov](https://catalog.data.gov/dataset/u-s-life-expectancy-at-birth-by-state-and-census-tract-2010-2015) <br/>
+Visualization shows how life expectancy and common cause of death differs by state. <br/>
 Infographic by Jamie Marshaleck, Lehigh University '26. <br/>
